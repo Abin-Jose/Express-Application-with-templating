@@ -1,0 +1,32 @@
+{
+  "name": "express-application-with-templating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abin-Jose/Express-App.git"
+  },
+  "author": "Abin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abin-Jose/Express-App/issues"
+  },
+  "homepage": "https://github.com/Abin-Jose/Express-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-flash": "git://github.com/RGBboy/express-flash.git",
+    "express-generator": "^4.15.5",
+    "express-sessions": "^1.0.6",
+    "express-validator": "^4.2.1",
+    "mysql": "^2.15.0",
+    "node-session": "^1.2.1",
+    "nodemon": "^1.12.1"
+  }
+}
